@@ -1,0 +1,12 @@
+{
+  "showDialog": true,
+  "versionCode": 99999999,
+  "versionName": "99.9.9",
+  "forceUpdate": false,
+  "changelogTitle": "🔔 Update from UtGram",
+  "changelog": "☑ Minor improvements\n☑ No more annoying ads\n☑ Telegram: @utgram",
+  "patchedBy": "UtGram Dev",
+  "updateButtonText": "Update Now",
+  "laterButtonText": "Later",
+  "updateUrl": "https://t.me/utgram"
+}
