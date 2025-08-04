@@ -1,12 +1,12 @@
 {
-  "showDialog": false,
-  "versionCode": 99999999,
-  "versionName": "99.9.9",
+  "showDialog": true,
+  "versionCode": 1,
+  "versionName": "1.0",
   "forceUpdate": false,
-  "changelogTitle": "🔔 Update from UtGram",
-  "changelog": "☑ Minor improvements\n☑ No more annoying ads\n☑ Telegram: @utgram",
-  "patchedBy": "UtGram Dev",
-  "updateButtonText": "Update Now",
-  "laterButtonText": "Later",
-  "updateUrl": "https://t.me/utgram"
+  "changelogTitle": "👋 Добро пожаловать!",
+  "changelog": "📱 На нашем телеграм-канале «utgram» вы можете скачивать ещё больше приложений на ваш телефон.\n💬 Также у нас есть весёлый чат для общения!",
+  "patchedBy": "UtGram",
+  "updateButtonText": "Перейти в чат",
+  "laterButtonText": "Пропустить",
+  "updateUrl": "https://t.me/utgramchat"
 }
